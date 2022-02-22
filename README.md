@@ -1,10 +1,15 @@
 ## Description
-        There's no need to stake/unstake tokens, The token will be generated to owners and can be simply claimed.
-        Two types of tokens Bulls and Bears. Each will generate a certain amount of WSDM Token. 
-        Bulls are %10 of the population and Bears are %90. Don't Dare to ask me why. hint: The market is not doing well so the bulls seem to to be winning.
-        Bear generate WSDM (I am realy bad at naming) consistently, then every once in while, the bulls will steal their hard earned Money just like the market.
-        WSDM can be staked to earn token through the staking contract. 
-        Inspired by the [Whales Game](https://whales.game/)
+There's no need to stake/unstake tokens, The token will be generated to owners and can be simply claimed.</br>
+
+Two types of tokens Bulls and Bears. Each will generate a certain amount of WSDM Token. </br>
+
+Bulls are %10 of the population and Bears are %90. Don't Dare to ask me why. hint: The market is not doing well so the bulls seem to to be winning.</br>
+
+Bear generate WSDM (I am realy bad at naming) consistently, then every once in while, the bulls will steal their hard earned Money just like the market.</br>
+
+WSDM can be staked to earn token through the staking contract. </br>
+
+Inspired by the [Whales Game](https://whales.game/)
  
 ## Technical stack
 
